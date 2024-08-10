@@ -2,7 +2,7 @@
 
 Welcome to our E-Learning project powered by AI! This project, built using ASP.NET framework and implemented in C#, follows the Model-View-Controller (MVC) architecture. It aims to revolutionize online learning by integrating artificial intelligence features, a comprehensive library of books, and curated learning paths in various programming tracks.
 
-![E-Learning](https://github.com/IbrahimElmasry/E-LearningProject/assets/120456709/7981c2de-046f-4bf8-8501-285d48a6865e)
+https://github.com/user-attachments/assets/0eca50e4-866a-4694-8d10-44453e7097df
 
 ## Features
 
